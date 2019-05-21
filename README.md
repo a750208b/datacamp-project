@@ -19,15 +19,35 @@ The data used in this Project was scraped and polished from Wikipedia. The datab
 
 Project Tasks
 1.TV, halftime shows, and the Big Game
+
+
 2.Data issues in the broadcasts table
+
+
 3.Data issues in the performances table
+
+
 4.The highest- and lowest-scoring Super Bowls
+
+
 5.The blowouts and nailbiters
+
+
 6.Do blowouts translate to lost viewers?
+
+
 7.Viewership and the ad industry over time
+
+
 8.Halftime shows weren't always this great
+
+
 9.Who has the most halftime show appearances?
+
+
 10.Who performed the most songs in a halftime show?
+
+
 11.Conclusion
 
 link:https://www.datacamp.com/projects/731
